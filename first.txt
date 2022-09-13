@@ -1,3 +1,4 @@
 基本的なワークフローを学びます。変更。
 ・git add
 ・git commit
+rm
